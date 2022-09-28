@@ -1,0 +1,25 @@
+input{
+    padding: 10px;
+    border-radius: 25px;
+}
+button{
+    width: 150px;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 25px;
+}
+.state1{
+    text-align: left;
+    background-color: rgb(210, 144, 144);
+    margin: 30px;
+    padding: 30px;
+    border-radius: 25px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.state2{
+    background-color: cadetblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 25px;
+}
